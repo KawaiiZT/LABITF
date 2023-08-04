@@ -1,4 +1,4 @@
 # ITF-Lab 2022
 
 ## Author
-Trisit Charoenparipat 66070069
+ไตรสิทธิ์ เจริญปริพัฒน์ 66070069
