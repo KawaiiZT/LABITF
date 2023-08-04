@@ -1,1 +1,4 @@
-#itf-lab2022
+# ITF-Lab 2022
+
+## Author
+Trisit Charoenparipat 66070069
